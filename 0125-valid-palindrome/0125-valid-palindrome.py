@@ -1,0 +1,19 @@
+class Solution(object):
+    def isPalindrome(self, s):
+        a = 0
+        b = len(s) - 1
+
+        while a < b:
+            while a < b and not s[a].isalnum():
+                a = a +1
+
+            while a < b and not s[b].isalnum():
+                b -= 1
+
+            if s[a].lower() != s[b].lower():
+                return False
+
+            a = a +  1
+            b = b - 1
+
+        return True
