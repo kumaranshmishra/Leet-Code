@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
