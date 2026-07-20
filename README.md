@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kumaranshmishra/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kumaranshmishra/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kumaranshmishra/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kumaranshmishra/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kumaranshmishra/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumaranshmishra/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
