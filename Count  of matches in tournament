@@ -1,0 +1,13 @@
+class Solution(object):
+    def numberOfMatches(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        matches = 0
+        while n > 1:
+            team = n
+            rem = n // 2
+            matches = matches + rem
+            n = team - rem
+        return matches
