@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kumaranshmishra/Leet-Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kumaranshmishra/Leet-Code/tree/master/0118-pascals-triangle) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kumaranshmishra/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kumaranshmishra/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumaranshmishra/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/kumaranshmishra/Leet-Code/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
