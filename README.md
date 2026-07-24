@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/kumaranshmishra/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kumaranshmishra/Leet-Code/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kumaranshmishra/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0055-jump-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
