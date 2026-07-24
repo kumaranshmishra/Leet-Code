@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0292-nim-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumaranshmishra/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/kumaranshmishra/Leet-Code/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumaranshmishra/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kumaranshmishra/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
