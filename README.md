@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kumaranshmishra/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kumaranshmishra/Leet-Code/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0877-stone-game) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumaranshmishra/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kumaranshmishra/Leet-Code/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumaranshmishra/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumaranshmishra/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
