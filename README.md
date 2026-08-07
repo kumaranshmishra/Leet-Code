@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kumaranshmishra/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kumaranshmishra/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/kumaranshmishra/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/kumaranshmishra/Leet-Code/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0657-robot-return-to-origin) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kumaranshmishra/Leet-Code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kumaranshmishra/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/kumaranshmishra/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kumaranshmishra/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
