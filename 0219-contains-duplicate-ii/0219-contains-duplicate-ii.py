@@ -4,7 +4,7 @@ class Solution(object):
 
         for i in range(len(nums)):
             if nums[i] in last_seen:
-                if i - last_seen[nums[i]] <= k:
+                if abs(i - last_seen[nums[i]]) <= k:
                     return True
 
             last_seen[nums[i]] = i
