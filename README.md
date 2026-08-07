@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kumaranshmishra/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumaranshmishra/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kumaranshmishra/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/kumaranshmishra/Leet-Code/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kumaranshmishra/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kumaranshmishra/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kumaranshmishra/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kumaranshmishra/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
