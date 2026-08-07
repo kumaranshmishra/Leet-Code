@@ -7,7 +7,6 @@ class Solution(object):
         """
         if len(s) != len(t):
             return False
-
         maps = {}
         mapt = {}
         for i in range(len(s)):
