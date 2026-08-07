@@ -6,7 +6,5 @@ class Solution(object):
             if nums[i] in last_seen:
                 if abs(i - last_seen[nums[i]]) <= k:
                     return True
-
             last_seen[nums[i]] = i
-
-        return False
+        return False               
