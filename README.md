@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kumaranshmishra/Leet-Code/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0877-stone-game) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
+| [1046-last-stone-weight](https://github.com/kumaranshmishra/Leet-Code/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kumaranshmishra/Leet-Code/tree/master/1672-richest-customer-wealth) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/kumaranshmishra/Leet-Code/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
