@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kumaranshmishra/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/kumaranshmishra/Leet-Code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kumaranshmishra/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kumaranshmishra/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kumaranshmishra/Leet-Code/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/kumaranshmishra/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/kumaranshmishra/Leet-Code/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0657-robot-return-to-origin) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kumaranshmishra/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kumaranshmishra/Leet-Code/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/kumaranshmishra/Leet-Code/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumaranshmishra/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kumaranshmishra/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/kumaranshmishra/Leet-Code/tree/master/0389-find-the-difference) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
 | [3731-find-missing-elements](https://github.com/kumaranshmishra/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
