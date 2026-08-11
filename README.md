@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kumaranshmishra/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kumaranshmishra/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kumaranshmishra/Leet-Code/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumaranshmishra/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kumaranshmishra/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/kumaranshmishra/Leet-Code/tree/master/0520-detect-capital) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kumaranshmishra/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumaranshmishra/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kumaranshmishra/Leet-Code/tree/master/0389-find-the-difference) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
 | [3731-find-missing-elements](https://github.com/kumaranshmishra/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumaranshmishra/Leet-Code/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumaranshmishra/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kumaranshmishra/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kumaranshmishra/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
