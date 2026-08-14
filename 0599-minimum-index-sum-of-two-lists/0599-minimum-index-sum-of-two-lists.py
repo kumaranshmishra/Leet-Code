@@ -1,10 +1,5 @@
-class Solution(object):
-    def findRestaurant(self, list1, list2):
-        """
-        :type list1: List[str]
-        :type list2: List[str]
-        :rtype: List[str]
-        """
+class Solution:
+    def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
         res = {}
         for i in range(len(list1)):
             if list1[i] in list2:
@@ -13,4 +8,5 @@ class Solution(object):
                     res[i+j] = []
                 res[i+j].append(list1[i])
         min_sum = min(res.keys())
-        return res[min_sum]                  
+        return res[min_sum]
+        
