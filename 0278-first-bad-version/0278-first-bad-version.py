@@ -10,10 +10,15 @@ class Solution(object):
         :rtype: int
         """
         left, right = 1, n
+        
         while left < right:
             mid = left + (right - left) // 2
+            
             if isBadVersion(mid):
+                # The first bad version is mid or earlier
                 right = mid
             else:
+                # The first bad version is strictly after mid
                 left = mid + 1
+                
         return left
