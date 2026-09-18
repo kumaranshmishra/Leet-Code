@@ -265,4 +265,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kumaranshmishra/Leet-Code/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kumaranshmishra/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kumaranshmishra/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kumaranshmishra/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kumaranshmishra/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
