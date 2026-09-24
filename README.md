@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
