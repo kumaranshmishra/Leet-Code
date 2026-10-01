@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kumaranshmishra/Leet-Code/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumaranshmishra/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3099-harshad-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kumaranshmishra/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3870-count-commas-in-range](https://github.com/kumaranshmishra/Leet-Code/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
