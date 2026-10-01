@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kumaranshmishra/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/kumaranshmishra/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/kumaranshmishra/Leet-Code/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/kumaranshmishra/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kumaranshmishra/Leet-Code/tree/master/3731-find-missing-elements) |
 ## String
 |  |
