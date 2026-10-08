@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kumaranshmishra/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/kumaranshmishra/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kumaranshmishra/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumaranshmishra/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/kumaranshmishra/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
 | ------- |
