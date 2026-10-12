@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/kumaranshmishra/Leet-Code/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/kumaranshmishra/Leet-Code/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kumaranshmishra/Leet-Code/tree/master/1672-richest-customer-wealth) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
+| [1089-duplicate-zeros](https://github.com/kumaranshmishra/Leet-Code/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
