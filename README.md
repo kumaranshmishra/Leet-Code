@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/kumaranshmishra/Leet-Code/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kumaranshmishra/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/kumaranshmishra/Leet-Code/tree/master/0709-to-lower-case) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/kumaranshmishra/Leet-Code/tree/master/1078-occurrences-after-bigram) |
