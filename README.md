@@ -332,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/kumaranshmishra/Leet-Code/tree/master/1925-count-square-sum-triples) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kumaranshmishra/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
