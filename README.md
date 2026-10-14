@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kumaranshmishra/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kumaranshmishra/Leet-Code/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kumaranshmishra/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kumaranshmishra/Leet-Code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kumaranshmishra/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0973-k-closest-points-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumaranshmishra/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
