@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumaranshmishra/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kumaranshmishra/Leet-Code/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kumaranshmishra/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Number Theory
 |  |
 | ------- |
