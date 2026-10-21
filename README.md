@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kumaranshmishra/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kumaranshmishra/Leet-Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kumaranshmishra/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kumaranshmishra/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kumaranshmishra/Leet-Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kumaranshmishra/Leet-Code/tree/master/0191-number-of-1-bits) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Matrix
@@ -338,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumaranshmishra/Leet-Code/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
