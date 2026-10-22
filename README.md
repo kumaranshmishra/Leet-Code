@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/kumaranshmishra/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/kumaranshmishra/Leet-Code/tree/master/1925-count-square-sum-triples) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3099-harshad-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kumaranshmishra/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumaranshmishra/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kumaranshmishra/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/kumaranshmishra/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
 | ------- |
