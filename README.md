@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumaranshmishra/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kumaranshmishra/Leet-Code/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/kumaranshmishra/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kumaranshmishra/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumaranshmishra/Leet-Code/tree/master/0219-contains-duplicate-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/kumaranshmishra/Leet-Code/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/kumaranshmishra/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kumaranshmishra/Leet-Code/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kumaranshmishra/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kumaranshmishra/Leet-Code/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 ## Heap (Priority Queue)
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kumaranshmishra/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kumaranshmishra/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 ## Queue
 |  |
