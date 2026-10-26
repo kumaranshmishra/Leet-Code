@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kumaranshmishra/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/kumaranshmishra/Leet-Code/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/kumaranshmishra/Leet-Code/tree/master/1078-occurrences-after-bigram) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kumaranshmishra/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumaranshmishra/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/kumaranshmishra/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
