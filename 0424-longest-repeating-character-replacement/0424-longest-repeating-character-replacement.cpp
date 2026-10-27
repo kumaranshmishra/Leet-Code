@@ -8,7 +8,7 @@ public:
     for(int end = 0 ; end < s.size();end++){
         frequency_map[s[end]]++;
         max_freq = max(frequency_map[s[end]], max_freq);
-        while(end - start + 1 - max_freq > k){
+        if(end - start + 1 - max_freq > k){
             frequency_map[s[start]]--;
             start++;
 
