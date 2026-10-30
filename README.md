@@ -362,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/kumaranshmishra/Leet-Code/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
