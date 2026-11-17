@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kumaranshmishra/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumaranshmishra/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kumaranshmishra/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kumaranshmishra/Leet-Code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kumaranshmishra/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kumaranshmishra/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kumaranshmishra/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/kumaranshmishra/Leet-Code/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kumaranshmishra/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kumaranshmishra/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kumaranshmishra/Leet-Code/tree/master/0278-first-bad-version) |
