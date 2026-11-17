@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kumaranshmishra/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/kumaranshmishra/Leet-Code/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/kumaranshmishra/Leet-Code/tree/master/1089-duplicate-zeros) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/kumaranshmishra/Leet-Code/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kumaranshmishra/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0973-k-closest-points-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumaranshmishra/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kumaranshmishra/Leet-Code/tree/master/3731-find-missing-elements) |
