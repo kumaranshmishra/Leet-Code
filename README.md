@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kumaranshmishra/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kumaranshmishra/Leet-Code/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kumaranshmishra/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kumaranshmishra/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
