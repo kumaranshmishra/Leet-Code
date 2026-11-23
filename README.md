@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/kumaranshmishra/Leet-Code/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/kumaranshmishra/Leet-Code/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/kumaranshmishra/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/kumaranshmishra/Leet-Code/tree/master/1550-three-consecutive-odds) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumaranshmishra/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kumaranshmishra/Leet-Code/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumaranshmishra/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/kumaranshmishra/Leet-Code/tree/master/1925-count-square-sum-triples) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kumaranshmishra/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kumaranshmishra/Leet-Code/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 ## Heap (Priority Queue)
@@ -378,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/kumaranshmishra/Leet-Code/tree/master/0620-not-boring-movies) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/kumaranshmishra/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
