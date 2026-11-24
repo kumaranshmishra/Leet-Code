@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/kumaranshmishra/Leet-Code/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/kumaranshmishra/Leet-Code/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/kumaranshmishra/Leet-Code/tree/master/1089-duplicate-zeros) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kumaranshmishra/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumaranshmishra/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/kumaranshmishra/Leet-Code/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/kumaranshmishra/Leet-Code/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kumaranshmishra/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0657-robot-return-to-origin) |
