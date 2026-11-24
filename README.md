@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumaranshmishra/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kumaranshmishra/Leet-Code/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/kumaranshmishra/Leet-Code/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumaranshmishra/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/kumaranshmishra/Leet-Code/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kumaranshmishra/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kumaranshmishra/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/kumaranshmishra/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/kumaranshmishra/Leet-Code/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/kumaranshmishra/Leet-Code/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/kumaranshmishra/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kumaranshmishra/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kumaranshmishra/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kumaranshmishra/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0763-partition-labels](https://github.com/kumaranshmishra/Leet-Code/tree/master/0763-partition-labels) |
 | [1002-find-common-characters](https://github.com/kumaranshmishra/Leet-Code/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/kumaranshmishra/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
 | [3731-find-missing-elements](https://github.com/kumaranshmishra/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kumaranshmishra/Leet-Code/tree/master/0055-jump-game) |
+| [0763-partition-labels](https://github.com/kumaranshmishra/Leet-Code/tree/master/0763-partition-labels) |
 | [1323-maximum-69-number](https://github.com/kumaranshmishra/Leet-Code/tree/master/1323-maximum-69-number) |
 ## Prefix Sum
 |  |
